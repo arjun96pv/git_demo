@@ -1,5 +1,0 @@
-hello everyone
-this is my first git class
-commands like
-git branch
-git commit
