@@ -1,6 +1,11 @@
+ihi
+hi
+hi
+hi
 
 hello everyone
 this is my first git class
 
+good mornng
 commands lik
 git brancH
