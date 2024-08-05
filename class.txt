@@ -1,4 +1,0 @@
-hello everyone
-
-git checkout
-git reset 
